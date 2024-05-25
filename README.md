@@ -35,4 +35,4 @@ This is a custom program I wrote for the ArduinoMEGA back in 2017 which drives s
 
 ## Usage
 
-Once the code is uploaded to the Arduino MEGA, the program will automatically start running the LED animations on the connected pinball playfield. The animations will cycle through various patterns and colors, creating a visually appealing display.
+Once the code is uploaded to the Arduino MEGA, the program will automatically start running the LED animations on the connected pinball playfield.
